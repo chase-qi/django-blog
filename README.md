@@ -13,3 +13,6 @@ $ python manage.py migrate
 $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
+How it looks like
+=================
+Refer to [Chase's Blog](http://qyc6810.pythonanywhere.com/)
